@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Richard, 
+here is some info about me:
+
+- 🔭 I’m currently working on an online shop with a chatbot.
+- 🌱 I’m currently learning React, NodeJS etc.
+- 👯 I’m looking to collaborate on web Projects, frontend or backend.
+- 🤔 I’m looking for help with my projecjts.
+- 💬 Ask me about to join for a job 😎
+- 📫 How to reach me: send a message to my email.
+- 😄 Pronouns: El Richi, The Rich 💪🏼
+
 
 <!--
 **RichardUtmach/RichardUtmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
